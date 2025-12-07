@@ -19,14 +19,19 @@ Siempre buscando aprender, mejorar y compartir.
 #### 🖥️ Languages & Frameworks
 <p align="left">
   <img src="https://cdn.simpleicons.org/flutter/FFFFFF" width="40" alt="Flutter"/>
-  <img src="https://cdn.simpleicons.org/Dart/FFFFFF" width="40" alt="Dart"/>
+  
   <img src="https://cdn.simpleicons.org/Laravel/FFFFFF" width="40" alt="Laravel"/>
   <img src="https://cdn.simpleicons.org/Springboot/FFFFFF" width="40" alt="SpringBoot"/>
   <img src="https://cdn.simpleicons.org/Django/FFFFFF" width="40" alt="Django"/>
-  <img src="https://cdn.simpleicons.org/Python/FFFFFF" width="40" alt="Python"/>
   <img src="https://cdn.simpleicons.org/React/FFFFFF" width="40" alt="React"/>
   <img src="https://cdn.simpleicons.org/Node.js/FFFFFF" width="40" alt="Node.js"/>
   <img src="https://cdn.simpleicons.org/Express/FFFFFF" width="40" alt="Express"/>
+  <img src="https://cdn.simpleicons.org/javascript/FFFFFF" width="40" alt="Javascript"/>
+  <img src="https://cdn.simpleicons.org/php/FFFFFF" width="40" alt="PHP"/>
+  <img src="https://cdn.simpleicons.org/Python/FFFFFF" width="40" alt="Python"/>
+  <img src="https://img.icons8.com/ios/50/FFFFFF/java-coffee-cup-logo--v1.png" witdth="40" alt="JAVA"/>
+  <img src="https://cdn.simpleicons.org/Dart/FFFFFF" width="40" alt="Dart"/>
+  <img src="https://cdn.simpleicons.org/tailwindcss/FFFFFF" width="40" alt="Tailwindcss"/>
 </p>
 
 #### 🧩 Tools & Platforms
