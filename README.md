@@ -62,11 +62,11 @@ Siempre buscando aprender, mejorar y compartir.
 ### 🤝 Let's Connect / Contacto
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/oscar-baez-z/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40" />
+  <a href="https://www.linkedin.com/in/oscar--baez/" target="_blank">
+    <img src="https://img.icons8.com/?size=100&id=8808&format=png&color=FFFFFF" width="40" alt="Linkedin"/>
   </a>
   <a href="mailto:oscarbz0609@gmail.com">
-    <img src="https://cdn.simpleicons.org/Gmail/C71610" width="40" alt="Gmail"/>
+    <img src="https://img.icons8.com/?size=100&id=Y2GfpkgYNp42&format=png&color=FFFFFF" width="40" alt="Gmail"/>
   </a>
 </p>
 
